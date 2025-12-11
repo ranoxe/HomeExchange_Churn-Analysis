@@ -1,3 +1,20 @@
+# 🔗 Project Resources (Google Drive)
+All project materials are available in the Drive folder, including:  
+- The interactive **dashboard file**  
+- The **Demo Day presentation** from the Le Wagon Bootcamp  
+
+👉 **Drive link:** *[https://drive.google.com/drive/folders/1acpF85OpPgenaN2YI-FU53jnpezqjBro?usp=sharing]*
+
+---
+
+# 👥 Team Members
+This project was completed as part of the **Le Wagon Data Science Bootcamp** by:
+
+- **Yassine Ezzaara**  
+- **Yasmine El Khalti**  
+- **Tarania El Abyad**
+
+---
 # 🏡 HomeExchange_Churn-Analysis
 
 This project analyzes subscription rates and churn on the HomeExchange platform from a financial and transactional perspective.  
