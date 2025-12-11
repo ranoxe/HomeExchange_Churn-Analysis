@@ -12,7 +12,7 @@ This project was completed as part of the **Le Wagon Data Science Bootcamp** by:
 
 - **Yassine Ezzaara**  
 - **Yasmine El Khalti**  
-- **Tarania El Abyad**
+- **Rania El Abyad**
 
 ---
 # 🏡 HomeExchange_Churn-Analysis
