@@ -10,8 +10,8 @@ All project materials are available in the Drive folder, including:
 # 👥 Team Members
 This project was completed as part of the **Le Wagon Data Science Bootcamp** by:
 
-- **Yassine Ezzaara**  
-- **Yasmine El Khalti**  
+- **YASSINE EZZAARATE**  
+- **YASMINE EL KHALTI**  
 - **Rania El Abyad**
 
 ---
