@@ -108,8 +108,8 @@ If `renew = 1`, the dataset contains:
 - Merge of Exchanges + Subscriptions
 
 ### 🔗 Join Keys
-- **user_id**  
-- **subscription_year**
+- **user_id = guest_user_id**  
+- **subscription_year = created_year**
 
 ### 📊 Final Dataset
 - Rows: **3,627,602**  
