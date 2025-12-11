@@ -38,6 +38,27 @@ It integrates subscription history, user activity, and exchange behavior to dete
 
 ---
 
+## 🛠️ Data Pipeline & Tools
+
+This project follows a clear data workflow using specialized tools for each phase:
+
+### 1. Data Processing and Preparation
+
+This phase includes data cleaning, transformation, and joining of the two main data sources (Exchanges and Subscriptions).
+
+- **Cleaning & Initial Aggregation:** **BigQuery (SQL)**
+- **Joining & Feature Engineering:** **Python** (via Google Colab)
+
+### 2. Analysis and Visualization
+
+- **Dashboarding:** **Power BI**
+
+### 3. Machine Learning
+
+- **Modeling & Prediction:** **Python**
+
+---
+
 # 🗂️ Data Schema & Description
 
 ## **1. Exchanges Table**
